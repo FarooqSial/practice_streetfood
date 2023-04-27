@@ -16,7 +16,7 @@ class onBoardingScreen2 extends StatelessWidget {
           actions: [
             Center(
               child: Padding(
-                padding: const EdgeInsets.only(right: 15),
+                padding: const EdgeInsets.only(right: 14.9),
                 child: GestureDetector(
                   onTap: (){
                     Navigator.push(
